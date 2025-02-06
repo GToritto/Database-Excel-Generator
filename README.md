@@ -32,13 +32,8 @@ Dashboard allowing the sales representative to generate and download Excel repor
 - Download reports from S3.
 - Run locally on machine.
 
-**How to Run:**
-1. Navigate to the `sales-dashboard/` folder:
-   ```bash
-   cd sales-dashboard
-   npm install
-   npm start
-   ```
+**Live Demo:**
+[Website](http://54.157.238.221:8080/)
 
 ---
 

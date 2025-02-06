@@ -9,7 +9,7 @@ This repository contains a full-stack AWS-powered solution for managing customer
 This React-based web app allows users to submit customer information, which is securely stored in DynamoDB.
 
 **Features:**
-- User-friendly form to collect customer data.
+- Form to collect customer data.
 - Data is stored in DynamoDB.
 - Hosted on an EC2 instance using Docker.
 
@@ -25,12 +25,12 @@ This React-based web app allows users to submit customer information, which is s
 
 ## 2. Sales Dashboard (Local App for Excel Reports)
 
-This React-based dashboard allows the sales team to generate and download Excel reports from customer data stored in DynamoDB.
+Dashboard allowing the sales representative to generate and download Excel reports from customer data stored in DynamoDB.
 
 **Features:**
 - Generate Excel reports via AWS Lambda.
 - Download reports from S3.
-- Run locally on your machine.
+- Run locally on machine.
 
 **How to Run:**
 1. Navigate to the `sales-dashboard/` folder:

@@ -4,7 +4,7 @@ This repository contains a full-stack AWS-powered solution for managing customer
 
 ---
 
-## 📋 1. Customer Form Frontend (Hosted on EC2)
+## 1. Customer Form Frontend (Hosted on EC2)
 
 This React-based web app allows users to submit customer information, which is securely stored in DynamoDB.
 
@@ -23,7 +23,7 @@ This React-based web app allows users to submit customer information, which is s
 
 ---
 
-## 📈 2. Sales Dashboard (Local App for Excel Reports)
+## 2. Sales Dashboard (Local App for Excel Reports)
 
 This React-based dashboard allows the sales team to generate and download Excel reports from customer data stored in DynamoDB.
 
@@ -42,7 +42,7 @@ This React-based dashboard allows the sales team to generate and download Excel 
 
 ---
 
-## 🚀 AWS Lambda Excel Export Function
+## AWS Lambda Excel Export Function
 
 The `lambda-excel-export/` folder contains the Python code for generating Excel files from DynamoDB data.
 
@@ -52,7 +52,7 @@ The `lambda-excel-export/` folder contains the Python code for generating Excel 
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - **Frontend:** React, Docker, AWS EC2
 - **Backend:** AWS Lambda, API Gateway, DynamoDB, S3
@@ -60,7 +60,7 @@ The `lambda-excel-export/` folder contains the Python code for generating Excel 
 
 ---
 
-## 📆 Project Structure
+## Project Structure
 
 ```
 customer-data-management-project/

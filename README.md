@@ -14,12 +14,7 @@ This React-based web app allows users to submit customer information, which is s
 - Hosted on an EC2 instance using Docker.
 
 **How to Run:**
-1. Navigate to the `customer-form-frontend/` folder:
-   ```bash
-   cd customer-form-frontend
-   npm install
-   npm start
-   ```
+[Live Demo](http://54.157.238.221:8080/)
 
 ---
 
@@ -33,7 +28,7 @@ Dashboard allowing the sales representative to generate and download Excel repor
 - Run locally on machine.
 
 **Live Demo:**
-[Website](http://54.157.238.221:8080/)
+[Live Demo](http://54.157.238.221:8080/)
 
 ---
 

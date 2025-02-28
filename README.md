@@ -18,7 +18,7 @@ This React-based web app allows users to submit customer information, which is s
 
 ---
 
-![Customer Frontend](GToritto/database-excel-generator/customer-form-frontend/customer.png)
+![Customer Frontend](customer-form-frontend/customer.png)
 
 
 ## 2. Sales Dashboard (Local App for Excel Reports)

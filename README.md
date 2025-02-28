@@ -58,28 +58,28 @@ The `lambda-excel-export/` folder contains the Python code for generating Excel 
 ```
 customer-data-management-project/
 |
-|-- customer-form-frontend/        # Customer form hosted on EC2
-|   |-- public/                    # Static files (HTML, favicon, etc.)
-|   |-- src/                       # Source code (React or HTML/JS/CSS)
-|   |   |-- App.js                # Main React component (form)
-|   |   |-- App.css               # Styles for form frontend
-|   |   |-- index.js              # Entry point
-|   |   \-- index.css              # Global styles
-|   |-- Dockerfile                # Dockerfile for EC2 deployment
-|   \-- package.json              # React dependencies
+|-- customer-form-frontend/       
+|   |-- public/                  
+|   |-- src/                      
+|   |   |-- App.js               
+|   |   |-- App.css           
+|   |   |-- index.js       
+|   |   \-- index.css             
+|   |-- Dockerfile            
+|   \-- package.json          
 |
-|-- sales-dashboard/               # Local app for generating Excel reports
-|   |-- public/                    # Static files (HTML, favicon, etc.)
-|   |-- src/                       # Source code (React or HTML/JS/CSS)
-|   |   |-- App.js                # Main React component (dashboard)
-|   |   |-- App.css               # Styles for dashboard
-|   |   |-- index.js              # Entry point
-|   |   \-- index.css              # Global styles
-|   |-- Dockerfile                # Optional: Dockerfile for future deployment
-|   \-- package.json               # React dependencies
+|-- sales-dashboard/           
+|   |-- public/                  
+|   |-- src/                  
+|   |   |-- App.js       
+|   |   |-- App.css           
+|   |   |-- index.js          
+|   |   \-- index.css              
+|   |-- Dockerfile              
+|   \-- package.json        
 |
-|-- lambda-excel-export/           # AWS Lambda function for generating Excel
-|   |-- lambda_function.py        # Python script for Excel generation
-|   \-- requirements.txt           # Python dependencies
+|-- lambda-excel-export/        
+|   |-- lambda_function.py        
+|   \-- requirements.txt           
 ```
 

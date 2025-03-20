@@ -30,6 +30,9 @@ Dashboard allowing the sales representative to generate and download Excel repor
 - Download reports from S3.
 - Run locally on machine.
 
+![Sales Dashboard](sales-dashboard/Generate.png)
+![Sales Download](sales-dashboard/Download.png)
+
 **Live Demo:**
 [Live Demo](http://54.157.238.221:8080/)
 

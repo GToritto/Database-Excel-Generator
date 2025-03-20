@@ -49,7 +49,7 @@ The `lambda-excel-export/` folder contains the Python code for generating Excel 
 
 - **Frontend:** React, Docker, AWS EC2
 - **Backend:** AWS Lambda, API Gateway, DynamoDB, S3
-- **Infrastructure:** Docker, (optional Terraform or CloudFormation)
+- **Infrastructure:** Docker
 
 ---
 

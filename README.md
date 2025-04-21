@@ -14,7 +14,7 @@ This React-based web app allows users to submit customer information, which is s
 - Hosted on an EC2 instance using Docker.
 
 **How to Run:**
-[Live Demo](http://54.157.238.221:8080/)
+[Live Demo](http://54.157.238.221:8080/) (No Longer Works)
 
 ---
 
